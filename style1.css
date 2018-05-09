@@ -1,0 +1,209 @@
+
+<style>
+.award {
+    padding-top: 95px;
+}
+
+.header-menu-right.header-stack #Top_bar .menu_wrapper{
+margin-right:0px !important;
+}
+
+.header-menu-right #Top_bar .menu_wrapper {
+    float: left !important;
+    margin-left: 40px !important;
+}
+
+.header-stack.header-center #Top_bar .logo {
+    text-align: left;
+}
+
+
+#menu > ul > li > a{
+letter-spacing: 1px !important;
+}
+
+body.header-stack:not(.template-slider) #Header{
+min-height: 175px;
+}
+
+.logoText{
+display:none;
+}
+
+h2, h3 { font-weight: 700; }
+h5, h6 { font-weight: 400; }
+
+h1, h2, h3, h4, h5, h6{text-transform: uppercase;}
+
+.heading-with-border { color: whitesmoke; display: inline-block; padding: 10px; margin-bottom: 25px;}
+
+.type-post .post-nav, .type-post .post-meta .category, .type-post .single-photo-wrapper
+{
+display: none;
+}
+
+ul.customList
+{
+margin: 25px 0 0;
+padding: 0;
+list-style: none;
+}
+
+ul.customList li
+{
+list-style: none;
+float: left;
+margin-right: 5px;
+}
+
+body:not(.template-slider) #Header
+{
+
+min-height: 0;
+
+}
+
+
+/* Menu */
+
+#Top_bar .logo
+{
+margin: 0 5px 0 0;
+}
+
+#Top_bar #logo {
+    height: 80px;
+    padding: 5px 0;
+}
+dy
+{
+   
+    color:red;
+    font-size:x-large;
+    font-family:'Felix Titling';
+}
+de
+{
+    background-color:black;
+    color:white;
+}
+
+
+/* Footer */
+#Footer {font-size: 18px;background-size: 100% auto;}
+#Footer .footer_copy { border: 0; }
+#Footer .footer_copy .one { padding-top: 0; }
+#Footer .footer_copy a#back_to_top { display: none; } 
+#Footer .widget_nav_menu {padding: 0;}
+#menu-footer-menu {list-style: none; padding: 0; margin: 0; text-align: center;}
+#menu-footer-menu li {display: inline-block; width: auto;}
+#menu-footer-menu li::after {border: 0}
+
+
+/* Table menu */
+table th, table td { border-width: 0 0 1px; }
+table tr:first-child td { background: none; }
+table tr:hover td { background: none; color: black; }
+.table_menu td.c1 { text-align: left; width: 60%; }
+.table_menu td.c2 { width: 20%; }
+.table_menu td.c3 { width: 20%; }
+
+
+#Footer .widget_nav_menu
+{
+padding: 0 !important;
+}
+
+#Footer .widgets_wrapper
+{
+padding-bottom: 0 !important;
+}
+
+#Footer
+{
+font-family: "Tiza",Arial,Tahoma,sans-serif;
+font-size: 12px !important;
+}
+
+#Footer a
+{
+color: black!important;
+text-decoration: underline;
+}
+
+#Footer a:hover
+{
+color: black !important;
+}
+
+
+
+
+/*********** form cssend ***********/
+
+.displayNone{
+display:none;
+}
+
+h1
+{
+color:white;
+font-size:xx-large;
+font-weight:bold;
+font-family:'Felix Titling';
+}
+h2, h3{
+color:white;
+font-size:x-large;
+font-weight:bold;
+font-family:'Felix Titling';
+}
+
+ul{
+    font-size:xx-large;
+    font-weight:bold;
+    
+}
+
+h6
+{
+
+	color:white;
+}
+
+rt
+{
+    font-size:x-large;
+    color:black;
+}
+
+li{
+    color:white;
+}
+hr
+{
+	color:white;
+}
+
+.infobox h3 {
+color: black !important;
+}
+
+/*slider arrows*/
+.ms-nav-prev, .ms-nav-next {
+visibility: hidden;
+}
+	
+
+
+#iframeCookieSet,#iframeCookieGet,#iframeCookieSetb,#iframeCookieGetb,#iframeCookieSetp,#iframeCookieGetp,#iframeCookieSetc,#iframeCookieGetc {
+border:none;
+}
+
+
+
+
+    }
+
+
+</style>
